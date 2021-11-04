@@ -24,11 +24,11 @@ jobs:
       - name: Build
         run: npm run build:deploy
         shell: pwsh
+        env:
+          PUBLIC_URL: /can-i-use-npm
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        env:
-          PUBLIC_URL: /can-i-use-npm
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
