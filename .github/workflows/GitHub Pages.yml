@@ -8,6 +8,7 @@ on:
 
 jobs:
   deploy:
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -30,4 +31,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./build
