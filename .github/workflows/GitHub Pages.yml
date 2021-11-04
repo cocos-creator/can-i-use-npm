@@ -22,10 +22,8 @@ jobs:
         shell: pwsh
 
       - name: Build
-        run: npx react-scripts build
+        run: npx cross-env PUBLIC_URL=/can-i-use-npm react-scripts build
         shell: pwsh
-        env:
-          PUBLIC_URL: /can-i-use-npm
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
