@@ -22,7 +22,7 @@ jobs:
         shell: pwsh
 
       - name: Build
-        run: npm run build:deploy
+        run: npx react-scripts build
         shell: pwsh
         env:
           PUBLIC_URL: /can-i-use-npm
