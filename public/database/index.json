@@ -51,6 +51,10 @@
             }
         },
         "dayjs": {
+            "types": {
+                "definitelyTyped": false,
+                "subPathTypes": true
+            },
             "usage": {
                 "module": "commonjs",
                 "path": ".",
