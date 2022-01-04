@@ -55,7 +55,7 @@
                 "module": "module",
                 "path": ".",
                 "export": [
-                    { type: "named", "exports": ["Dayjs"] }
+                    { "type": "named", "exports": ["Dayjs"] }
                 ]
             }
         },
