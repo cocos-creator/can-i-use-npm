@@ -52,11 +52,9 @@
         },
         "dayjs": {
             "usage": {
-                "module": "module",
+                "module": "commonjs",
                 "path": ".",
-                "export": [
-                    { "type": "named", "exports": ["Dayjs"] }
-                ]
+                "local": "dayjs"
             }
         },
         "fairygui-cc": {
