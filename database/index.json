@@ -142,15 +142,6 @@
                 "local": "rxjs"
             }
         },
-        "uuid": {
-            "usage": {
-                "module": "module",
-                "path", ".",
-                "export": [
-                    { "type": "v4", "local": "uuidv4" }
-                ]
-            }
-        },
         "web3": {
             "types": {
                 "definitelyTyped": true,
