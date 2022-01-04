@@ -50,6 +50,15 @@
                 "local": "crypto"
             }
         },
+        "dayjs": {
+            "usage": {
+                "module": "module",
+                "path": ".",
+                "export": [
+                    { type: "named", "exports": ["Dayjs"] }
+                ]
+            }
+        },
         "fairygui-cc": {
             "usage": {
                 "module": "module",
@@ -131,6 +140,15 @@
                 "module": "commonjs",
                 "path": "dist/bundles/rxjs.umd.js",
                 "local": "rxjs"
+            }
+        },
+        "uuid": {
+            "usage": {
+                "module": "module",
+                "path", ".",
+                "export": [
+                    { "type": "v4", "local": "uuidv4" }
+                ]
             }
         },
         "web3": {
