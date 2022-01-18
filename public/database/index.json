@@ -43,6 +43,27 @@
                 "local": "axios"
             }
         },
+        "crypto-es": {
+            "types": {
+                "definitelyTyped": false,
+                "subPathTypes": true
+            },
+            "usage": [{
+                "module": "module",
+                "path": ".",
+                "export": {
+                    "type": "namespace",
+                    "local": "CryptoES"
+                }
+            }, {
+                "module": "module",
+                "path": "lib/md5.js",
+                "export": {
+                    "type": "named",
+                    "exports": ["MD5"]
+                }
+            }]
+        },
         "crypto-ts": {
             "usage": {
                 "module": "commonjs",
