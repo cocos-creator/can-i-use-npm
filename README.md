@@ -1,3 +1,3 @@
 # Can I Use NPM
 
-Site: https://cocos-creator.github.io/can-i-use-npm/
+Site: https://cocos.github.io/cocos-can-i-use-npm/
