@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/can-i-use-npm/static/css/main.ba4eddf4.chunk.css",
-    "main.js": "/can-i-use-npm/static/js/main.527f07a8.chunk.js",
-    "main.js.map": "/can-i-use-npm/static/js/main.527f07a8.chunk.js.map",
-    "runtime-main.js": "/can-i-use-npm/static/js/runtime-main.f1098799.js",
-    "runtime-main.js.map": "/can-i-use-npm/static/js/runtime-main.f1098799.js.map",
-    "static/js/2.6d335211.chunk.js": "/can-i-use-npm/static/js/2.6d335211.chunk.js",
-    "static/js/2.6d335211.chunk.js.map": "/can-i-use-npm/static/js/2.6d335211.chunk.js.map",
-    "static/js/3.36450ac0.chunk.js": "/can-i-use-npm/static/js/3.36450ac0.chunk.js",
-    "static/js/3.36450ac0.chunk.js.map": "/can-i-use-npm/static/js/3.36450ac0.chunk.js.map",
-    "index.html": "/can-i-use-npm/index.html",
-    "static/css/main.ba4eddf4.chunk.css.map": "/can-i-use-npm/static/css/main.ba4eddf4.chunk.css.map",
-    "static/js/2.6d335211.chunk.js.LICENSE.txt": "/can-i-use-npm/static/js/2.6d335211.chunk.js.LICENSE.txt"
+    "main.css": "/cocos-can-i-use-npm/static/css/main.ba4eddf4.chunk.css",
+    "main.js": "/cocos-can-i-use-npm/static/js/main.460419c4.chunk.js",
+    "main.js.map": "/cocos-can-i-use-npm/static/js/main.460419c4.chunk.js.map",
+    "runtime-main.js": "/cocos-can-i-use-npm/static/js/runtime-main.7c820b5d.js",
+    "runtime-main.js.map": "/cocos-can-i-use-npm/static/js/runtime-main.7c820b5d.js.map",
+    "static/js/2.6d335211.chunk.js": "/cocos-can-i-use-npm/static/js/2.6d335211.chunk.js",
+    "static/js/2.6d335211.chunk.js.map": "/cocos-can-i-use-npm/static/js/2.6d335211.chunk.js.map",
+    "static/js/3.36450ac0.chunk.js": "/cocos-can-i-use-npm/static/js/3.36450ac0.chunk.js",
+    "static/js/3.36450ac0.chunk.js.map": "/cocos-can-i-use-npm/static/js/3.36450ac0.chunk.js.map",
+    "index.html": "/cocos-can-i-use-npm/index.html",
+    "static/css/main.ba4eddf4.chunk.css.map": "/cocos-can-i-use-npm/static/css/main.ba4eddf4.chunk.css.map",
+    "static/js/2.6d335211.chunk.js.LICENSE.txt": "/cocos-can-i-use-npm/static/js/2.6d335211.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1098799.js",
+    "static/js/runtime-main.7c820b5d.js",
     "static/js/2.6d335211.chunk.js",
     "static/css/main.ba4eddf4.chunk.css",
-    "static/js/main.527f07a8.chunk.js"
+    "static/js/main.460419c4.chunk.js"
   ]
 }
