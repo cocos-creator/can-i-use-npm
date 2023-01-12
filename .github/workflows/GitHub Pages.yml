@@ -23,7 +23,7 @@ jobs:
         shell: pwsh
 
       - name: Build
-        run: npx cross-env PUBLIC_URL=/can-i-use-npm react-scripts build
+        run: npx cross-env PUBLIC_URL=/cocos-can-i-use-npm react-scripts build
         shell: pwsh
 
       - name: Deploy
